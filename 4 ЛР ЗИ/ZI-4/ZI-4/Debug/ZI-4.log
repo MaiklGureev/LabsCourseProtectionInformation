@@ -1,0 +1,5 @@
+﻿  ZI4.cpp
+c:\users\denis\documents\visual studio 2017\projects\zi-4\zi-4\zi4.cpp(8): warning C4005: _WIN32_WINNT: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\shared\sdkddkver.h(213): note: см. предыдущее определение "_WIN32_WINNT"
+  ZI-4.vcxproj -> C:\Users\Denis\Documents\Visual Studio 2017\Projects\ZI-4\Debug\ZI-4.exe
+  ZI-4.vcxproj -> C:\Users\Denis\Documents\Visual Studio 2017\Projects\ZI-4\Debug\ZI-4.pdb (Partial PDB)

@@ -1,0 +1,14 @@
+﻿  zi4lab1.cpp
+c:\users\admin\documents\visual studio 2015\projects\zi4lab1\zi4lab1\zi4lab1.cpp(8): warning C4005: _WIN32_WINNT: изменение макроопределения
+  c:\program files\windows kits\8.1\include\shared\sdkddkver.h(200): note: см. предыдущее определение "_WIN32_WINNT"
+c:\users\admin\documents\visual studio 2015\projects\zi4lab1\zi4lab1\zi4lab1.cpp(87): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\documents\visual studio 2015\projects\zi4lab1\zi4lab1\zi4lab1.cpp(114): warning C4101: p: неиспользованная локальная переменная
+c:\users\admin\documents\visual studio 2015\projects\zi4lab1\zi4lab1\zi4lab1.cpp(201): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\documents\visual studio 2015\projects\zi4lab1\zi4lab1\zi4lab1.cpp(232): warning C4101: p: неиспользованная локальная переменная
+c:\users\admin\documents\visual studio 2015\projects\zi4lab1\zi4lab1\zi4lab1.cpp(171): warning C4101: y: неиспользованная локальная переменная
+c:\users\admin\documents\visual studio 2015\projects\zi4lab1\zi4lab1\zi4lab1.cpp(169): warning C4101: bytesbackY: неиспользованная локальная переменная
+c:\users\admin\documents\visual studio 2015\projects\zi4lab1\zi4lab1\zi4lab1.cpp(168): warning C4101: cryptBlockSize: неиспользованная локальная переменная
+c:\users\admin\documents\visual studio 2015\projects\zi4lab1\zi4lab1\zi4lab1.cpp(255): warning C4101: bytesb: неиспользованная локальная переменная
+c:\users\admin\documents\visual studio 2015\projects\zi4lab1\zi4lab1\zi4lab1.cpp(256): warning C4101: y: неиспользованная локальная переменная
+  zi4lab1.vcxproj -> C:\Users\admin\Documents\Visual Studio 2015\Projects\zi4lab1\Debug\zi4lab1.exe
+  zi4lab1.vcxproj -> C:\Users\admin\Documents\Visual Studio 2015\Projects\zi4lab1\Debug\zi4lab1.pdb (Full PDB)

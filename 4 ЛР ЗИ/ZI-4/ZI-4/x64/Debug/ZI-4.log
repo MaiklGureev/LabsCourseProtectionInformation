@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  ZI4.cpp
+c:\users\administrator\desktop\zi-4\zi-4\zi4.cpp(8): warning C4005: _WIN32_WINNT: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\shared\sdkddkver.h(213): note: см. предыдущее определение "_WIN32_WINNT"
+c:\users\administrator\desktop\zi-4\zi-4\zi4.cpp(45): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+c:\users\administrator\desktop\zi-4\zi-4\zi4.cpp(60): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+c:\users\administrator\desktop\zi-4\zi-4\zi4.cpp(96): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+c:\users\administrator\desktop\zi-4\zi-4\zi4.cpp(115): warning C4101: p: неиспользованная локальная переменная
+c:\users\administrator\desktop\zi-4\zi-4\zi4.cpp(180): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+c:\users\administrator\desktop\zi-4\zi-4\zi4.cpp(191): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+c:\users\administrator\desktop\zi-4\zi-4\zi4.cpp(205): warning C4101: p: неиспользованная локальная переменная
+c:\users\administrator\desktop\zi-4\zi-4\zi4.cpp(158): warning C4101: y: неиспользованная локальная переменная
+c:\users\administrator\desktop\zi-4\zi-4\zi4.cpp(156): warning C4101: bytesbackY: неиспользованная локальная переменная
+c:\users\administrator\desktop\zi-4\zi-4\zi4.cpp(155): warning C4101: cryptBlockSize: неиспользованная локальная переменная
+c:\users\administrator\desktop\zi-4\zi-4\zi4.cpp(249): warning C4101: bytesb: неиспользованная локальная переменная
+c:\users\administrator\desktop\zi-4\zi-4\zi4.cpp(250): warning C4101: y: неиспользованная локальная переменная
+  ZI-4.vcxproj -> C:\Users\Administrator\Desktop\ZI-4\x64\Debug\ZI-4.exe
